@@ -2,8 +2,8 @@
 
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ro4ever&show_icons=true&theme=react&count_private=true">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ro4ever&show_icons=true&locale=en&layout=compact&theme=react">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ro4ever&show_icons=true&theme=react&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ro4ever&show_icons=true&locale=en&layout=compact&theme=react">
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
